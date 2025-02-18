@@ -1,0 +1,13 @@
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.deps.json
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.dll
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Business.pdb
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Data.dll
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\bin\Debug\netcoreapp3.1\UserManagement.Data.pdb
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserMana.47147A98.Up2Date
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.dll
+C:\Users\MILIND\source\repos\UserManagement.API\UserManagement.Business\obj\Debug\netcoreapp3.1\UserManagement.Business.pdb
